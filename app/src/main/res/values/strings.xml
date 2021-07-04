@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mengenal_Komputer</string>
+    <string name="tulisan">Komputer pada awalnya ditemukan oleh seorang ilmuan yang bernama Charles Babbage yang berhasil membuat sebuah mesin yang diberi nama Difference and Analitycal Engine. Mesin ini berfungsi untuk menghitung angka. Sejak saat itu banyak dilakukan berbagai penelitian untuk menciptakan mesin hitung yang lebih cepat dan praktis. Kemudian menculah berbagai generasi komputer yang terbagi menjadi komputer generasi 1, 2, 3, 4, dan 5.\n
+\nKomputer Generasi I
+\nPada generasi ini komputer memekai banyak sekali tabung hampa dengan ukuran yang sangat besar hingga memenuhi satu ruangan, dan komputer ini dinamakan ENIAC (Electronic Numerikal Itegrator and Computer). Karena ukurannya yang cukup besar namun hanya bisa menyimpan data yang sedikit, maka lahirlah komputer generasi 2.
+\n\nKomputer Generasi II
+\nPenggunakan tabung hampa digantikan dengan transistor sehingga lebih menghemat tempat dan juga daya. Sejak generasi ini juga mulai bermunculan berbagai bahasa pemrograman seperti COBOL, ALGOL, dan FOTRAN. Dari segi ukuran komputer generasi II lebih kecil hanya sebejar ukuran meja kerja dan mampu menyimpan data lebih banyak. Komputer ini lebih dikenal dengan nama UNIVAV (Universal Aotomatic Computer).
+\nKomputer Generasi III
+\nSeiring dengan sejarah perkembangan komputer, keberadaan transistor pada generasi sebelumnya telah digantikan dengan IC, dimana IC sendiri ditemukan oleh insinyur asala Texas yang bernama Jack Kilby pada tahun 1958. Pada generasi ini juga lahir microprocessor pertama yaitu interl 4004 pada tahun 1971.
+\nKomputer Generasi IV
+\nPada 1980 an muncul komputer generasi baru ditandai dengan munculnya LSI (Large Scale integration). Dimana ini merupakan peadatan ribuan IC menjadi sebuah chip. Kemudian LSI terus dikembagkan hingga lahirlah VLSI (Very Large Scale Integration).
+\nKomputer Generasi V
+\nKomputer masa depan saat ini sedang terus dikembangkan dan inilah generasi yang sedang kita lalui. Meskipun belum ada proyek nyata, konsep komputer generasi ke-5 memiliki kecerdasan buatan sehingga komputer akan memiliki nalar seperti manusia, dan bisa terus belajar dari pengalaman. Dan itulah sejarah perkembangan komputer dari waktu ke waktu.
+</string>
+
+    <string name="title_activity_videosejarahkomputer">videosejarahkomputer</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="komponenkom">Gambar diatas merupakan komponen yang terdapat pada komputer.\n \nKomputer membutuhkan komponen tersebut agar dapat berfungsi sebagaimana mestinya</string>
+    <string name="komponenlap">Gambar diatas merupakan komponen yang terdapat pada laptop.\n \nLaptop membutuhkan komponen tersebut agar dapat berfungsi sebagaimana mestinya</string>
+    <string name="tulisansejarahlaptop">
+        Ide pembuatan komputer portable ini sebenarnya sudah digagas pada tahun 1970-an. Gagasan tersebut pertama kali dicetuskan oleh Alan Kay. Beliau adalah seorang ilmuwan komputer dari Amerika dan lahir pada 17 Mei 1940. Alan Kay sudah mengagas komputer portable ini sebelum orang lain membayangkannya. Dan ide dari Alan ini disambut oleh Adam Osborne. Beliau adalah publisher software dan bekerja di sebuah penerbitan buku di Amerika, lahir paa 6 Maret 1939 di Bangkok dan meninggal pada 18 Maret 2003 di Kodaikanal, India.\n
+
+\nProyek komputer portable pertama ini diberi nama "Osborne 1". Dirilis pada bulan April 1981 oleh Osborne Computer Corporation. Memiliki berat 23,5 pon atau sekitar 10,7 kg dan berharga $1795 atau sekitar 16 jutaan rupiah. Alat ini mungkin terlihat aneh ya, berukuran super besar dan dilengkapi layar monitor 5 in. Menggunakan sambungan listrik dengan baterai cadangan dan 2 floppy drive ukuran 5 ¼ in, modem port, dan keyboard. Kemudian penemuan itu terus dikembangkan hingga sekarang dan mungkin saat ini Anda sedang menggunakannya.\n
+
+
+\nUntuk kata laptop sendiri, saya belum dapat info yang pasti. Namun, pendapat sebagian orang kata laptop berarti "dipangku atas", jadi definisinya adalah komputer pribadi yang agak kecil, yang dapat dibawa-bawa dan dapat ditempatkan di pangkuan pengguna, terdiri atas satu perangkat yang mencakupi papan tombol, layar tampilan, mikroprosesor, biasanya dilengkapi dengan baterai yang dapat diisi ulang.
+    </string>
+</resources>

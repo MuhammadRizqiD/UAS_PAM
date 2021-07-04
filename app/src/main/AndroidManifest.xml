@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mengenal_komputer">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".videokomponenlaptop"></activity>
+        <activity android:name=".komponenlaptop" />
+        <activity android:name=".videokomponenkomputer" />
+        <activity android:name=".videosejarahlaptop" />
+        <activity android:name=".sejarahlaptop" />
+        <activity android:name=".komponenkomputer" />
+        <activity
+            android:name=".videosejarahkomputer"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_videosejarahkomputer"
+            android:theme="@style/FullscreenTheme" />
+        <activity android:name=".SejarahKomputer" />
+        <activity android:name=".komputerhome" />
+        <activity android:name=".laptophome" />
+        <activity android:name=".home" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
